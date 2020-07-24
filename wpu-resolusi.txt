@@ -1,0 +1,4 @@
+wpu resolus
+- Konsisten untuk membuat kontent sebanyak 2x seminggu
+- Membuat platprom untuk pengelolaan video
+- Membuat forum diskusi
